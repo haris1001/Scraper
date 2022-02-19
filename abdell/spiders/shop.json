@@ -1,0 +1,113 @@
+[
+    {
+      "id": 2101,
+      "name": "Torfs",
+      "croppedLogoUrl": "https://trooperv2.blob.core.windows.net/association/2101/campaign_logo_1605559688526402100.jpg",
+      "comission": 3,
+      "comissionType": "Percentage",
+      "transactionGuid": "03196d40-3fbd-4bee-a9d7-b03c78b8af19",
+      "isTrooperShopOfMonthBadgeVisible": false
+    },
+    {
+      "id": 130,
+      "name": "A.S.Adventure",
+      "croppedLogoUrl": "https://trooperv2.blob.core.windows.net/association/130/campaign_logo_1605558995814879800.jpg",
+      "comission": 3,
+      "comissionType": "Percentage",
+      "transactionGuid": "03196d40-3fbd-4bee-a9d7-b03c78b8af19",
+      "isTrooperShopOfMonthBadgeVisible": false,
+      "additionalInformationForPopup": "A.S Adventure geeft géén commissie op cadeaubonnen. Op alle producten is er een standaardcommissie van 3%, met uitzondering van de categorieën electronics (1,8%) en trekking (3,37%)"
+    },
+    {
+      "id": 163,
+      "name": "BookSpot.be",
+      "croppedLogoUrl": "https://trooperv2.blob.core.windows.net/regularcampaign/163/064fad1a-1bf2-4bbe-9f59-624a769e80dd_BookSpot.be.png",
+      "comission": 5.6,
+      "comissionType": "Percentage",
+      "transactionGuid": "03196d40-3fbd-4bee-a9d7-b03c78b8af19",
+      "isTrooperShopOfMonthBadgeVisible": false
+    },
+    {
+      "id": 2,
+      "name": "Ali Express",
+      "croppedLogoUrl": "https://trooperv2.blob.core.windows.net/association/2/campaign_logo_1605558889369886500.jpg",
+      "comission": 3.7,
+      "comissionType": "Percentage",
+      "transactionGuid": "03196d40-3fbd-4bee-a9d7-b03c78b8af19",
+      "isTrooperShopOfMonthBadgeVisible": false
+    },
+    {
+      "id": 14,
+      "name": "HEMA",
+      "croppedLogoUrl": "https://trooperv2.blob.core.windows.net/association/14/campaign_logo_1605558896690068100.jpg",
+      "comission": 4.12,
+      "comissionType": "Percentage",
+      "transactionGuid": "03196d40-3fbd-4bee-a9d7-b03c78b8af19",
+      "isTrooperShopOfMonthBadgeVisible": false,
+      "additionalInformationForPopup": "Opgelet geen commissie op HEMA Fotoservice, HEMA Tickets en HEMA Verzekeringen"
+    },
+    {
+      "id": 348,
+      "name": "Hln",
+      "croppedLogoUrl": "https://trooperv2.blob.core.windows.net/association/348/campaign_logo_1605559378735779900.jpg",
+      "comission": 3.94,
+      "comissionType": "Fixed",
+      "transactionGuid": "03196d40-3fbd-4bee-a9d7-b03c78b8af19",
+      "isTrooperShopOfMonthBadgeVisible": false,
+      "additionalInformationForPopup": "Bij afsluiten van een abonnement"
+    },
+    {
+      "id": 1073,
+      "name": "Belvilla",
+      "croppedLogoUrl": "https://trooperv2.blob.core.windows.net/association/1073/campaign_logo_1605559475259448400.jpg",
+      "comission": 4.12,
+      "comissionType": "Percentage",
+      "transactionGuid": "03196d40-3fbd-4bee-a9d7-b03c78b8af19",
+      "isTrooperShopOfMonthBadgeVisible": false
+    },
+    {
+      "id": 79,
+      "name": "Hotels.com",
+      "croppedLogoUrl": "https://trooperv2.blob.core.windows.net/association/79/campaign_logo_1605558944246985500.jpg",
+      "comission": 2.25,
+      "comissionType": "Percentage",
+      "transactionGuid": "03196d40-3fbd-4bee-a9d7-b03c78b8af19",
+      "isTrooperShopOfMonthBadgeVisible": false
+    },
+    {
+      "id": 317,
+      "name": "Zalando Lounge",
+      "croppedLogoUrl": "https://trooperv2.blob.core.windows.net/association/317/campaign_logo_1605559203514896200.jpg",
+      "comission": 3,
+      "comissionType": "Percentage",
+      "transactionGuid": "03196d40-3fbd-4bee-a9d7-b03c78b8af19",
+      "isTrooperShopOfMonthBadgeVisible": false
+    },
+    {
+      "id": 132,
+      "name": "Medpets.be",
+      "croppedLogoUrl": "https://trooperv2.blob.core.windows.net/association/132/campaign_logo_1605559012594437600.jpg",
+      "comission": 3.15,
+      "comissionType": "Percentage",
+      "transactionGuid": "03196d40-3fbd-4bee-a9d7-b03c78b8af19",
+      "isTrooperShopOfMonthBadgeVisible": false
+    },
+    {
+      "id": 402,
+      "name": "Ici Paris XL",
+      "croppedLogoUrl": "https://trooperv2.blob.core.windows.net/association/402/campaign_logo_1605559438794710600.jpg",
+      "comission": 3.75,
+      "comissionType": "Percentage",
+      "transactionGuid": "03196d40-3fbd-4bee-a9d7-b03c78b8af19",
+      "isTrooperShopOfMonthBadgeVisible": false
+    },
+    {
+      "id": 2103,
+      "name": "De Bijenkorf",
+      "croppedLogoUrl": "https://trooperv2.blob.core.windows.net/regularcampaign/2103/ad24f07a-acfd-4efd-ad04-3a40f8492d4b_de%20bijenkorf.png",
+      "comission": 2.5,
+      "comissionType": "Percentage",
+      "transactionGuid": "03196d40-3fbd-4bee-a9d7-b03c78b8af19",
+      "isTrooperShopOfMonthBadgeVisible": false
+    }
+  ]
